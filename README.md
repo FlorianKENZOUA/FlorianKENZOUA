@@ -46,8 +46,11 @@
 
 ## 🧩 Un fun fact ?
 
-> "Je vois la data comme un sport : plus on s'entraîne, plus on progresse !"
+> "Donner moins que le meilleur de soi-même, c'est sacrifier le don." Steve Préfontaine
 
 ---
 
+![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlorianKENZOUA&show_icons=true&theme=default)
+
+---
 
