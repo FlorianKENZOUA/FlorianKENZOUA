@@ -7,7 +7,7 @@
 
 ---
 
-## 🗺️ Sommaire
+## 🗺️ Sommaire :
 
 - [🚀 Ce que je fais](#-ce-que-je-fais)
 - [📚 Projets en cours ou récents](#-projets-en-cours-ou-récents)
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Ce que je fais
+## 🚀 Ce que je fais :
 
 - 🔢 Modélisation, analyse de données & machine learning
 - 📈 Visualisation de données (Matplotlib, Power BI...)
@@ -26,7 +26,7 @@
 
 ---
 
-## 📚 Projets en cours ou récents
+## 📚 Projets en cours ou récents :
 
 - 🤖 **Modèles de prédiction en sport d’endurance** – Analyse de perfs via machine learning
 - 📊 **Exploration de données Strava** – Visualisation de mes activités sportives mais aussi celles d'athlètes confirmés
@@ -35,7 +35,7 @@
 
 ---
 
-## 🧰 Stack technique
+## 🧰 Stack technique :
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
@@ -44,13 +44,13 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)  
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)  
 
-### Librairies & frameworks  
+### Librairies & frameworks :  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
 
-### Outils & environnements  
+### Outils & environnements :  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
@@ -59,7 +59,7 @@
 
 ---
 
-## 🌍 Où me trouver
+## 🌍 Où me trouver ?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-kenzoua)  
 📫 Email : kenzoua.florian@gmail.com  
