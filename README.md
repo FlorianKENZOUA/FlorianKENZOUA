@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour👋, bienvenu sur mon espace GitHub : FlorianKENZOUA</h1>
+<h1 align="center">Bonjour👋, bienvenu sur mon espace GitHub</h1>
 <h3 align="center">Apprenti Data Analyst chez ESIEE Paris, recherche alternance à partir de septembre 2025 !</h3>
 
 <h3 align="left">Connect with me:</h3>
