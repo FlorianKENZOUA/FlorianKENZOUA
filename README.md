@@ -39,7 +39,6 @@
 ## 🌍 Où me trouver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-kenzoua) 
-
 📫 Email : kenzoua.florian@gmail.com  
 
 ---
