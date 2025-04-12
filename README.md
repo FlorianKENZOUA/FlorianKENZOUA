@@ -7,6 +7,16 @@
 
 ---
 
+## 🗺️ Sommaire
+
+- [🚀 Ce que je fais](#-ce-que-je-fais)
+- [📚 Projets en cours ou récents](#-projets-en-cours-ou-récents)
+- [🧰 Stack technique](#-stack-technique)
+- [🌍 Où me trouver](#-où-me-trouver)
+- [🧩 Un fun fact](#-un-fun-fact)
+
+---
+
 ## 🚀 Ce que je fais
 
 - 🔢 Modélisation, analyse de données & machine learning
