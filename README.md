@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c’est Florian Kenzoua
+# 👋 Bonjour et bienvenu !
 
 🎓 Étudiant ingénieur DataScience à ESIEE Paris  
 📊 Passionné de sport, de data et de code  
