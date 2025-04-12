@@ -1,3 +1,5 @@
+![Motivation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFoZTQ0YnBsNzRldjFjdGFma3F5cXZrdWd3bWt6cWo2aGo2NzdobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zi2FQvx8c6jXZB9dm/giphy.gif)
+
 # 👋 Bonjour et bienvenu !
 
 🎓 Étudiant ingénieur DataScience à ESIEE Paris  
