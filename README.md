@@ -1,26 +1,27 @@
-# 👋 Salut, moi c’est Florian Kenzoua
+# 👋 Bonjour, moi c’est Florian Kenzoua
 
 🎓 Étudiant ingénieur DataScience à ESIEE Paris  
 📊 Passionné de sport, de data et de code  
 🚴‍♂️ Sportif d’endurance & curieux de tout  
-🔍 En recherche d'une alternance de 24 mois à partir de septembre 2025
+🔍 En recherche d'une alternance de 24 mois à partir de septembre 2025, je suis ouvert à : Business Intelligence, Intelligence Artificielle et Machine Learning, Data Engineering, R&D en IA, Data Product Management 
 
 ---
 
 ## 🚀 Ce que je fais
 
 - 🔢 Modélisation, analyse de données & machine learning
-- 📈 Visualisation de données (Plotly, Matplotlib, Power BI)
-- 🧠 Projets IA liés au sport, au bien-être et à la performance
-- 💻 Développement en Python, C++, SQL & outils Git
+- 📈 Visualisation de données (Matplotlib, Power BI...)
+- 🧠 Projets Data/IA liés au sport, la performance, l'analyse client et produit
+- 💻 Développement en Python, C++, C, SQL ...
 
 ---
 
 ## 📚 Projets en cours ou récents
 
-- 🎮 **Doodle Jump en C++** – Jeu programmé avec G2D et Visual Studio
 - 🤖 **Modèles de prédiction en sport d’endurance** – Analyse de perfs via machine learning
-- 📊 **Exploration de données Strava** – Visualisation de mes activités sportives
+- 📊 **Exploration de données Strava** – Visualisation de mes activités sportives mais aussi celles d'athlètes confirmés
+- 🎮 **Doodle Jump en C++** – Jeu programmé avec G2D et Visual Studio
+- 🎮 **Jeu d'aventure en Python** – Jeu programmé avec GitHub en collaboration
 
 ---
 
@@ -38,8 +39,7 @@
 ## 🌍 Où me trouver
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil)
-📫 Email : florian.kenzoua@mail.com  
-🏃‍♂️ Strava : [ton profil Strava si tu veux l’ajouter]
+📫 Email : kenzoua.florian@mail.com  
 
 ---
 
